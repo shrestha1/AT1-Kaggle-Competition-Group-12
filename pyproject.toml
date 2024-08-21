@@ -1,17 +1,15 @@
 [tool.poetry]
-name = "at1-kaggle-competition-group-12"
+name = "yeetingli"
 version = "0.1.0"
-description = "Kaggle Competition"
-authors = ["Dipesh Shrestha <newardipesh@gmail.com>"]
+description = ""
+authors = ["Yee Ting Li <yeeting.li@student.uts.edu.au>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-pandas = "2.2.2"
 jupyterlab = "4.2.3"
 scikit-learn = "1.5.1"
-matplotlib = "^3.9.1.post1"
-seaborn = "^0.13.2"
+pandas = "2.2.2"
 
 
 [build-system]
